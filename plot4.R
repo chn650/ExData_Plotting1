@@ -3,12 +3,14 @@ source("load_data.R")
 data <- load_data()
 
 
+
 #save multiple plots in one figure
 png("plot4.png", height=480, width=480, bg = "transparent")
 
 
 #2 plots per row and 2 plots per column
 par(mfrow=c(2,2))
+
 
 #first plot: datetime vs. Global_active_power
 plot(data$datetime, data$Global_active_power, type="l", xlab="", ylab="Global Active Power")
