@@ -1,7 +1,7 @@
 # How to run the R scripts
-* Download and unzip the <b>dataset</b> <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> in your working directory. You will see the `household_power_consumption.txt` file in your working directory.
+* Download and unzip the <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">data</a> in your working directory. You will see the `household_power_consumption.txt` file in your working directory.
 * Make sure the R scripts are in your working directory.
-* Creating the png files: 
+* Create the png files: 
   * Entering the command `source("plot1.R")` in R will create a png-file called `plot1.png` in your working directory.
   * Entering the command `source("plot2.R")` in R will create a png-file called `plot2.png` in your working directory.
   * Entering the command `source("plot3.R")` in R will create a png-file called `plot3.png` in your working directory.
