@@ -2,6 +2,7 @@
 source("load_data.R")
 data <- load_data()
 
+
 #save histogram of Global_active_power
 png("plot1.png", height=480, width=480, bg = "transparent")
 
