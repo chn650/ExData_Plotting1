@@ -1,6 +1,11 @@
 # How to run the R scripts
 * Make sure the scripts and the `household_power_consumption.txt` are in your working directory.
-* Entering the command `source("plot1.R")` in R will create a png file called `plot1.png` in your working directory. The other scripts work the same way.
+* Creating the png files: 
+  * Entering the command `source("plot1.R")` in R will create a png file called `plot1.png` in your working directory.
+  * Entering the command `source("plot2.R")` in R will create a png file called `plot2.png` in your working directory.
+  * Entering the command `source("plot3.R")` in R will create a png file called `plot3.png` in your working directory.
+  * Entering the command `source("plot4.R")` in R will create a png file called `plot4.png` in your working directory.
+
 
 ---
 
