@@ -1,3 +1,7 @@
+# How to run the R scripts
+Entering the command source("plot1.R") in R will create a png file called plot1.png in your working directory. The other scripts work the same way.
+
+# Assignment
 ## Introduction
 
 This assignment uses data from
