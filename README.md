@@ -9,6 +9,8 @@
 
 The script `load_data.R` contains a function for loading the data needed to create the png-files. This function is called upon in the other scripts.
 
+Since the example figures in the figure folder have a transparent background, I have also included this in my scripts. 
+
 ---
 
 # Assignment
